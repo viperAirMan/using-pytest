@@ -1,1 +1,6 @@
-# TODO: define a main function
+def start():
+    pass
+
+
+if __name__ == '__main__':
+    start()
